@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(90deg, violet, indigo, blue, green, yellow, orange, red);
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+    font-size: 5rem;
+    letter-spacing: 12.5px;
+}
+
+#home-page li {
+    list-style: none;
+    margin: 5rem;
+    font-size: 2rem;
+    letter-spacing: 5px;
+}
+
+li {
+    list-style: none;
+    margin: 1rem;
+}
+
+ul {
+    margin: auto;
+    padding: 0;
+    border: 1px solid black;
+    border-radius: 1rem;
+    width: 50%;
+    
+}
+
+ol {
+    margin: auto;
+    padding: 0;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 1rem
+}
+
+
+a {
+    color: white;
+    text-decoration-line: none;
+}
+
+img {
+    border-radius: 1rem ;
+}
